@@ -38,4 +38,4 @@ Allow: /
 User-agent: Bytespider
 Allow: /
 
-Sitemap: https://www.drarosianyliberato.com.br/sitemap.xml
+Sitemap: https://sitesempresas-web.github.io/Dra-Rosiany-Liberato-Dentista/sitemap.xml
